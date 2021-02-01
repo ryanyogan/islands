@@ -1,3 +1,4 @@
 defmodule IslandsEngine.Board do
-  def new(), do: %{}
+  @moduledoc false
+  def new, do: %{}
 end
